@@ -1,0 +1,22 @@
+/*
+.stats {
+    z-index: 100;
+    border: 2px solid red;
+}
+
+.stats__header {
+    z-index: 100;
+    border: 2px solid red;
+}
+
+
+.stats__items{
+    z-index: 100;
+    border: 2px solid red;
+}
+*/
+
+.visually-hidden {
+    display: none;
+}
+
